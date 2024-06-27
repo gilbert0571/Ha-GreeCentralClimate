@@ -322,7 +322,7 @@ class Gree2Climate(ClimateEntity):
         
         self.platform = 'gree2'
 
-        self._available = True
+        self._available = False
 
         self._name = name
 
